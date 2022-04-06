@@ -1,0 +1,19 @@
+h1
+{
+    color: black;
+}
+
+#spacexes {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #spacexes td, #spacexes th {
+    border: 1px solid rgb(221, 221, 221);
+    padding: 10px;
+  }
+  
+  
+  
+  
